@@ -1,7 +1,5 @@
 # Ime projekta: Time And Chat
-```
-Beta verzija
-```
+
 
 ## Project setup
 ```
