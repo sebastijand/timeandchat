@@ -30,9 +30,7 @@ za hosting smo koristili: zeit.co
 linkovi: 
 - DEPLOYMENT: 
   timeandchat-wfycfzhwm.now.sh
-- DOMAINS:
-  timeandchat.now.sh
-  timeandchat.sduskovi.now.sh
+
 
 ```
 
